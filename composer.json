@@ -1,5 +1,6 @@
 {
     "name": "hichemtab-tech/reqease-php",
+    "description": "ReqEase-PHP: The PHP backend for ReqEase - A powerful library for seamless form handling and validation on the web. Integrate with ReqEase on the front end for efficient form processing.",
     "version": "1.0.0",
     "type": "library",
     "license": "MIT",
